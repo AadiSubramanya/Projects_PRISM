@@ -19,19 +19,19 @@ Draw.io makes making diagrams easier by giving you an easy-to-use interface and 
 
 The repository contains several important folders:
 
-- **src/**  
+**src/**  
   This file has the main source code for the app, which includes the UI components and the core logic.
   
-- **docs/**  
+**docs/**  
   Files that explain features, how to use them, and rules for developers.
   
-- **test/**  
+**test/**  
   The repository does not follow a traditional testing structure with a dedicated `tests/` folder. Testing is handled differently or within specific parts of the project.
 
-- **webapp/**  
+**webapp/**  
   Contains files related to the web version of the application, including HTML, CSS, and JavaScript.
 
-- **build/**  
+**build/**  
   Scripts and settings that are used to make and package the app. 
 
 ## 3. Technologies Used
